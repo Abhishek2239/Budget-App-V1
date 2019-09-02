@@ -7,16 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "compile": "node-sass sass/main.scss style.css -w" 
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Abhishek2239/Budget-App-V1.git"
-  },
   "author": "abhishek",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Abhishek2239/Budget-App-V1/issues"
-  },
-  "homepage": "https://github.com/Abhishek2239/Budget-App-V1#readme",
+  "homepage": "https://budget.abhishekcodes.in",
   "devDependencies": {
     "node-sass": "^4.12.0"
   }

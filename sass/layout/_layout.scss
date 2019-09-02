@@ -21,33 +21,34 @@
   }
   
   .budget__title {
-font-size: 4rem;
+font-size: 2.5rem;
     text-align: center;
-    margin-bottom: 10px;
+    margin-bottom: 1rem;
     font-weight: 100;
   }
   
   .budget__value {
     font-weight: 800;
-    font-size: 5rem;
+    font-size: 4.5rem;
     text-align: center;
-    margin-bottom: 10rem;
+    margin-bottom: 4rem;
     letter-spacing: 2px;
   }
   
   .budget__income,
   .budget__expenses {
-    padding: 12px;
+    padding: 1.2rem;
     text-transform: uppercase;
     width: 49%;
     float: left;
     text-align: center;
     font-weight: 400;
+    text-align: center;
     
   }
   
   .budget__income {
-    margin-right: 30px;
+    margin-right: 2rem;
     // background-color: #28b9b5;
     color: #47e4bb;
   }
@@ -60,7 +61,7 @@ font-size: 4rem;
   .budget__income--text,
   .budget__expenses--text {
     // float: left;
-    font-size: 4rem;
+    font-size: 3rem;
     margin-top: 2px;
   }
   
@@ -69,13 +70,15 @@ font-size: 4rem;
     letter-spacing: 1px;
     margin-top: 1rem;
     font-size: 2rem;
+    // width: 90%;
+    // margin: 0 auto;
     // float: left;
   }
   
   .budget__income--percentage,
   .budget__expenses--percentage {
     // float: left;
-    width: 6rem;
+    width: 10%;
     font-size: 1.5rem;
     padding: 3px 0;
     margin: 0 auto;
@@ -99,15 +102,15 @@ font-size: 4rem;
   }
   
   .add__container {
-    margin: 3rem auto;
+    margin-top: -2rem ;
     text-align: center;
   }
   
   .add__type {
     width: 6rem;
     border: 1px solid #e7e7e7;
-    height: 4.5rem;
-    font-size: 2rem;
+    height: 4.4rem;
+    font-size: 1.5rem;
     color: white;
     background-color: transparent;
     margin-right: 10px;
